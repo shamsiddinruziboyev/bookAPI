@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "price": 25,
+        "discountPrice": 20,
+        "description": "A practical guide to building good habits and breaking bad ones.",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/91bYsX41DVL.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Rich Dad Poor Dad",
+        "author": "Robert Kiyosaki",
+        "price": 22,
+        "discountPrice": 18,
+        "description": "A personal finance book that teaches financial independence.",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81bsw6fnUiL.jpg"
+    },
+    {
+        "id": 3,
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "price": 18,
+        "discountPrice": 14,
+        "description": "A philosophical story about following your dreams.",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71aFt4+OTOL.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Think and Grow Rich",
+        "author": "Napoleon Hill",
+        "price": 20,
+        "discountPrice": 16,
+        "description": "Classic book about success and wealth mindset.",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71UypkUjStL.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Deep Work",
+        "author": "Cal Newport",
+        "price": 24,
+        "discountPrice": 19,
+        "description": "Rules for focused success in a distracted world.",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81JJ7fyyKyS.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Ikigai",
+        "author": "Hector Garcia",
+        "price": 19,
+        "discountPrice": 15,
+        "description": "Japanese secrets to a long and happy life.",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81l3rZK4lnL.jpg"
+    },
+    {
+        "id": 7,
+        "title": "The Psychology of Money",
+        "author": "Morgan Housel",
+        "price": 23,
+        "discountPrice": 17,
+        "description": "Lessons about wealth, greed, and happiness.",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71g2ednj0JL.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Clean Code",
+        "author": "Robert C. Martin",
+        "price": 35,
+        "discountPrice": 30,
+        "description": "A handbook of agile software craftsmanship.",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/41SH-SvWPxL.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Start With Why",
+        "author": "Simon Sinek",
+        "price": 21,
+        "discountPrice": 16,
+        "description": "How great leaders inspire everyone to take action.",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71NB8X0vFJL.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Zero to One",
+        "author": "Peter Thiel",
+        "price": 26,
+        "discountPrice": 20,
+        "description": "Notes on startups and building the future.",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71m-MxdJ2WL.jpg"
+    },
+    {
+        "id": 11,
+        "title": "The 48 Laws of Power",
+        "author": "Robert Greene",
+        "price": 28,
+        "discountPrice": 22,
+        "description": "A guide to gaining and maintaining power.",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71zw6cXkqJL.jpg"
+    },
+    {
+        "id": 12,
+        "title": "Can't Hurt Me",
+        "author": "David Goggins",
+        "price": 27,
+        "discountPrice": 21,
+        "description": "Master your mind and defy the odds.",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81gTRv2HXrL.jpg"
+    },
+    {
+        "id": 13,
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling",
+        "price": 30,
+        "discountPrice": 25,
+        "description": "The magical beginning of Harry Potter’s journey.",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81YOuOGFCJL.jpg"
+    },
+    {
+        "id": 14,
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "price": 24,
+        "discountPrice": 19,
+        "description": "A fantasy adventure before The Lord of the Rings.",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/91b0C2YNSrL.jpg"
+    },
+    {
+        "id": 15,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "price": 20,
+        "discountPrice": 15,
+        "description": "A novel about racial injustice and morality.",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81OthjkJBuL.jpg"
+    },
+    {
+        "id": 16,
+        "title": "1984",
+        "author": "George Orwell",
+        "price": 18,
+        "discountPrice": 13,
+        "description": "A dystopian novel about surveillance and control.",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71kxa1-0mfL.jpg"
+    },
+    {
+        "id": 17,
+        "title": "The Subtle Art of Not Giving a F*ck",
+        "author": "Mark Manson",
+        "price": 23,
+        "discountPrice": 18,
+        "description": "A counterintuitive approach to living a good life.",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71QKQ9mwV7L.jpg"
+    },
+    {
+        "id": 18,
+        "title": "Sapiens",
+        "author": "Yuval Noah Harari",
+        "price": 29,
+        "discountPrice": 24,
+        "description": "A brief history of humankind.",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/713jIoMO3UL.jpg"
+    },
+    {
+        "id": 19,
+        "title": "The Lean Startup",
+        "author": "Eric Ries",
+        "price": 22,
+        "discountPrice": 17,
+        "description": "How today's entrepreneurs use continuous innovation.",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81-QB7nDh4L.jpg"
+    },
+    {
+        "id": 20,
+        "title": "Think Like a Monk",
+        "author": "Jay Shetty",
+        "price": 24,
+        "discountPrice": 19,
+        "description": "Train your mind for peace and purpose every day.",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71UwSHSZRnS.jpg"
+    }
+]
